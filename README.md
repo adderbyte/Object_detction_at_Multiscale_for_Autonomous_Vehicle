@@ -1,1 +1,1 @@
-# Pedestrian_tracking_cnn
+# Pedestrian_tracking_conv_net
